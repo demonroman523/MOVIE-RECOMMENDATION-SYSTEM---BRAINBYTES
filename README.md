@@ -57,14 +57,6 @@ Similarity Computation
 (precompute_similarity
 
 
-You said:
-with those small image along title and dot points too
-
-ChatGPT said:
-Got it! I can create a professional, well-structured README for your BrainBytes Movie Recommendation System in the style of the Driver Drowsiness one, with code blocks, emoji icons, dot points, and small section images/titles that can be copy-pasted exactly. Here's a fully formatted version:
-
-markdown
-Copy code
 # 🎬 BrainBytes Movie Recommendation System
 Python • Streamlit • Machine Learning • Pickle
 
