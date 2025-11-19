@@ -124,6 +124,7 @@ env\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 💻 Usage
+
 Run the App
 
 code
@@ -141,7 +142,7 @@ movie_list.pkl and similarity matrices are used for fast recommendations.
 
 📁 Project Structure
 text
-Copy code
+
 BrainBytes-Movie-Recommender/
 │
 ├── app.py                       # Main Streamlit app
